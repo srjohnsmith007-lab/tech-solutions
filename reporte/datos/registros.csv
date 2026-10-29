@@ -1,0 +1,106 @@
+id,fecha,categoria,producto,cantidad,valor,medio_de_pago,estado
+V001,2026-09-19,Joyas,Anillo de oro,1,780000,Tarjeta,entregado
+V002,2026-09-22,Joyas,Collar de plata,2,1240000,Tarjeta,entregado
+V003,2026-09-01,Joyas,Anillo de oro,1,780000,Efectivo,pendiente
+V004,2026-09-17,Perfumes,Perfume 100 ml,1,380000,Tarjeta,cancelado
+V005,2026-09-12,Relojes,Reloj deportivo,1,1200000,Transferencia,entregado
+V006,2026-09-24,Gafas,Gafas de sol,2,900000,Efectivo,entregado
+V007,2026-09-17,Joyas,Anillo de oro,1,780000,Transferencia,entregado
+V008,2026-09-28,Perfumes,Perfume 100 ml,2,760000,Tarjeta,entregado
+V009,2026-09-22,Bolsos,Maletín ejecutivo,1,1100000,Efectivo,entregado
+V010,2026-09-19,Gafas,Gafas de lectura,1,290000,Tarjeta,entregado
+V011,2026-09-17,Gafas,Gafas de lectura,3,870000,Transferencia,entregado
+V012,2026-09-09,Perfumes,Perfume 100 ml,1,380000,Efectivo,cancelado
+V013,2026-09-06,Perfumes,Perfume 50 ml,1,240000,Transferencia,entregado
+V014,2026-09-20,Relojes,Reloj deportivo,1,1200000,Transferencia,entregado
+V015,2026-09-29,Perfumes,Perfume 100 ml,1,380000,Transferencia,entregado
+V016,2026-09-21,Gafas,Gafas de lectura,2,580000,Transferencia,entregado
+V017,2026-09-14,Relojes,Reloj clásico,1,1800000,Efectivo,cancelado
+V018,2026-09-07,Gafas,Gafas de sol,1,450000,Tarjeta,entregado
+V105,2026-09-27,Bolsos,Bolso de mano,dos,1900000,Transferencia,entregado
+V019,2026-09-04,Gafas,Gafas de lectura,1,290000,Tarjeta,entregado
+V020,2026-09-09,Bolsos,Bolso de mano,1,950000,Tarjeta,entregado
+V021,2026-09-25,Perfumes,Perfume 50 ml,1,240000,Efectivo,entregado
+V022,2026-09-06,Perfumes,Perfume 100 ml,1,380000,Efectivo,pendiente
+V023,2026-09-08,Joyas,Collar de plata,2,1240000,Transferencia,entregado
+V024,2026-09-18,Relojes,Reloj deportivo,1,1200000,Tarjeta,entregado
+V025,2026-09-25,Gafas,Gafas de sol,1,450000,Tarjeta,entregado
+V026,2026-09-02,Perfumes,Perfume 50 ml,1,240000,Efectivo,entregado
+V027,2026-09-25,Joyas,Anillo de oro,1,780000,Tarjeta,entregado
+V028,2026-09-21,Billeteras,Billetera de cuero,2,560000,Transferencia,entregado
+V029,2026-09-10,Perfumes,Perfume 100 ml,2,760000,Transferencia,entregado
+V030,2026-09-11,Bolsos,Bolso de mano,1,950000,Tarjeta,entregado
+V031,2026-09-09,Relojes,Reloj deportivo,3,3600000,Transferencia,entregado
+V032,2026-09-07,Gafas,Gafas de sol,3,1350000,Efectivo,entregado
+V033,2026-09-24,Gafas,Gafas de lectura,1,290000,Transferencia,entregado
+V034,2026-09-26,Gafas,Gafas de lectura,1,290000,Tarjeta,entregado
+V035,2026-09-03,Gafas,Gafas de sol,1,450000,Efectivo,entregado
+V036,2026-09-18,Gafas,Gafas de lectura,3,870000,Efectivo,entregado
+V037,2026-09-24,Gafas,Gafas de sol,2,900000,Tarjeta,entregado
+V038,2026-09-21,Perfumes,Perfume 100 ml,2,760000,Efectivo,entregado
+V039,2026-09-27,Joyas,Anillo de oro,2,1560000,Efectivo,entregado
+V040,2026-09-22,Billeteras,Tarjetero,1,150000,Tarjeta,entregado
+V041,2026-09-17,Relojes,Reloj deportivo,2,2400000,Tarjeta,entregado
+V104,2026-09-20,,Tarjetero,2,300000,Efectivo,pendiente
+V042,2026-09-30,Joyas,Collar de plata,1,620000,Tarjeta,entregado
+V043,2026-09-17,Perfumes,Perfume 100 ml,1,380000,Tarjeta,entregado
+V044,2026-09-30,Billeteras,Tarjetero,2,300000,Transferencia,entregado
+V045,2026-09-06,Gafas,Gafas de lectura,1,290000,Transferencia,entregado
+V046,2026-09-16,Relojes,Reloj clásico,1,1800000,Tarjeta,entregado
+V047,2026-09-05,Bolsos,Maletín ejecutivo,1,1100000,Transferencia,entregado
+V048,2026-09-21,Relojes,Reloj deportivo,1,1200000,Tarjeta,entregado
+V049,2026-09-14,Perfumes,Perfume 100 ml,2,760000,Efectivo,entregado
+V050,2026-09-16,Gafas,Gafas de sol,2,900000,Tarjeta,entregado
+V051,2026-09-30,Relojes,Reloj deportivo,1,1200000,Tarjeta,entregado
+V052,2026-09-21,Relojes,Reloj deportivo,1,1200000,Tarjeta,entregado
+V101,2026-09-05,Perfumes,Perfume 100 ml,2,,Tarjeta,entregado
+V053,2026-09-13,Billeteras,Tarjetero,3,450000,Transferencia,entregado
+V054,2026-09-23,Bolsos,Bolso de mano,1,950000,Efectivo,cancelado
+V055,2026-09-02,Perfumes,Perfume 100 ml,2,760000,Tarjeta,entregado
+V056,2026-09-01,Gafas,Gafas de lectura,1,290000,Transferencia,entregado
+V057,2026-09-04,Bolsos,Maletín ejecutivo,2,2200000,Tarjeta,entregado
+V058,2026-09-17,Bolsos,Bolso de mano,1,950000,Tarjeta,entregado
+V059,2026-09-04,Relojes,Reloj deportivo,2,2400000,Efectivo,entregado
+V060,2026-09-21,Perfumes,Perfume 50 ml,2,480000,Tarjeta,entregado
+V102,2026-09-12,Gafas,Gafas de sol,1,cuatrocientos mil,Transferencia,entregado
+V061,2026-09-30,Gafas,Gafas de sol,3,1350000,Efectivo,entregado
+V062,2026-09-19,Gafas,Gafas de lectura,1,290000,Transferencia,entregado
+V063,2026-09-14,Joyas,Anillo de oro,1,780000,Transferencia,entregado
+V064,2026-09-14,Relojes,Reloj deportivo,1,1200000,Efectivo,entregado
+V065,2026-09-14,Perfumes,Perfume 100 ml,2,760000,Transferencia,entregado
+V066,2026-09-22,Billeteras,Billetera de cuero,2,560000,Tarjeta,entregado
+V067,2026-09-04,Billeteras,Tarjetero,1,150000,Efectivo,entregado
+V068,2026-09-05,Perfumes,Perfume 50 ml,1,240000,Transferencia,entregado
+V069,2026-09-20,Relojes,Reloj deportivo,1,1200000,Efectivo,entregado
+V070,2026-09-12,Joyas,Collar de plata,1,620000,Efectivo,entregado
+V071,2026-09-27,Billeteras,Billetera de cuero,2,560000,Efectivo,entregado
+V072,2026-09-14,Joyas,Collar de plata,1,620000,Tarjeta,entregado
+V073,2026-09-13,Joyas,Anillo de oro,1,780000,Tarjeta,entregado
+V074,2026-09-03,Bolsos,Maletín ejecutivo,1,1100000,Tarjeta,cancelado
+V075,2026-09-27,Billeteras,Tarjetero,1,150000,Tarjeta,pendiente
+V076,2026-09-06,Billeteras,Tarjetero,1,150000,Tarjeta,pendiente
+V077,2026-09-04,Perfumes,Perfume 100 ml,1,380000,Transferencia,entregado
+V078,2026-09-16,Joyas,Collar de plata,1,620000,Efectivo,entregado
+V079,2026-09-19,Perfumes,Perfume 100 ml,1,380000,Tarjeta,cancelado
+V080,2026-09-04,Gafas,Gafas de lectura,2,580000,Tarjeta,entregado
+V081,2026-09-18,Perfumes,Perfume 100 ml,1,380000,Transferencia,entregado
+V082,2026-09-09,Gafas,Gafas de sol,1,450000,Efectivo,pendiente
+V083,2026-09-03,Billeteras,Tarjetero,1,150000,Tarjeta,entregado
+V084,2026-09-24,Relojes,Reloj deportivo,1,1200000,Transferencia,entregado
+V085,2026-09-04,Joyas,Anillo de oro,1,780000,Transferencia,entregado
+V086,2026-09-22,Joyas,Collar de plata,1,620000,Transferencia,pendiente
+V087,2026-09-14,Bolsos,Bolso de mano,1,950000,Tarjeta,entregado
+V088,2026-09-24,Perfumes,Perfume 100 ml,1,380000,Transferencia,entregado
+V089,2026-09-27,Joyas,Anillo de oro,1,780000,Transferencia,entregado
+V103,2026-13-40,Relojes,Reloj clásico,1,1800000,Tarjeta,entregado
+V090,2026-09-01,Perfumes,Perfume 100 ml,1,380000,Tarjeta,entregado
+V091,2026-09-29,Bolsos,Maletín ejecutivo,1,1100000,Tarjeta,entregado
+V092,2026-09-26,Perfumes,Perfume 100 ml,1,380000,Transferencia,entregado
+V093,2026-09-28,Perfumes,Perfume 100 ml,2,760000,Tarjeta,pendiente
+V094,2026-09-21,Joyas,Anillo de oro,2,1560000,Tarjeta,entregado
+V095,2026-09-15,Perfumes,Perfume 50 ml,2,480000,Transferencia,entregado
+V096,2026-09-14,Gafas,Gafas de lectura,1,290000,Tarjeta,entregado
+V097,2026-09-27,Gafas,Gafas de lectura,1,290000,Tarjeta,entregado
+V098,2026-09-04,Perfumes,Perfume 100 ml,1,380000,Efectivo,entregado
+V099,2026-09-21,Bolsos,Bolso de mano,1,950000,Efectivo,entregado
+V100,2026-09-12,Gafas,Gafas de sol,1,450000,Tarjeta,entregado
